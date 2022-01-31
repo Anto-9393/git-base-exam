@@ -1,4 +1,4 @@
-"Provando a imparar a usar lo Git".    
+"Provando a imparare a usare lo Git".    
 e questa siepe, che da tanta parte    
 dell'ultimo orizzonte il guardo esclude.    
 Ma sedendo e mirando, interminati    
